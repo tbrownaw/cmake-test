@@ -1,5 +1,6 @@
 cmake_install.cmake
 Makefile
+*/Makefile
 cmake_install.cmake
 CMakeFiles
 app/app
